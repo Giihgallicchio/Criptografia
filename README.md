@@ -45,6 +45,5 @@ Este projeto representa um estudo inicial sobre criptografia e não aprofunda co
 
 
 ## | Autora
+- Giovanna Galichio  
 
-Giovanna Galichio  
-Estudante de Análise e Desenvolvimento de Sistemas  
